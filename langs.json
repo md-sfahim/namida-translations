@@ -1,5 +1,10 @@
 [
   {
+    "code": "bn_BD",
+    "name": "Bengali",
+    "country": "Bangladesh"
+  }
+  {
     "code": "nl_NL",
     "name": "Dutch",
     "country": "Netherlands"
